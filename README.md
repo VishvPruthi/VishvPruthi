@@ -1,5 +1,5 @@
-<h1 align="center">### Hi there, I'm Vishv Pruthi</h1><br>
-<h3 align="center">I'm Pursing degree of B.Tech(Computer Science Engineering).</h3>
+<h1 align="center">### Hi there, I'm Vishv Pruthi</h1>
+<h3 align="center">I'm Pursing degree of B.Tech(Computer Science Engineering).</h3><br>
 
 - 🌱 I’m currently learning **Network Security,Security Tools**
 
