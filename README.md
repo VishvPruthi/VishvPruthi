@@ -1,15 +1,15 @@
 <h1 align="center">### Hi there, I'm Vishv Pruthi</h1>
 <h3 align="center">I'm Pursing degree of B.Tech(Computer Science Engineering).</h3><br>
 
-- 🌱 I’m currently learning **Network Security,Security Tools**
+- 🌱 I’m currently learning **Network Security Tools**
 
-- 👯 I’m looking to internship in **Network Security,Cyber Security**
+- 👯 I’m looking to internship in **Cyber Security**
 
-- 🤝 I’m interested in **Information Security**
+- 🤝 I’m interested in **CyberSecurity or cyber forensics**
 
 - 👨‍💻 All of my projects are available at [github.com/VishvPruthi/](github.com/VishvPruthi/)
 
-- 💬 Ask me about **Web Development,Network Security,Python,Security tools**
+- 💬 Ask me about **Web Development,Network Security,Python,Security tools,cyber forensic,forensic tools**
 
 - 📫 How to reach me **vishvpruthi@gmail.com**
 
