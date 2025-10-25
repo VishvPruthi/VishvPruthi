@@ -6,9 +6,9 @@ I’m currently exploring various **network security tools** and looking for an 
 ---
 
 ## 🔐 About Me  
-- 🌱 Currently learning **Network Security Tools** and **Cyber Forensics tool**  
+- 🌱 Currently learning **Network Security Tools** and **Cyber Forensics Tools**  
 - 👯 Looking to collaborate or intern in **Cybersecurity**  
-- 💬 Ask me about **Web Development, Python, Security Tools, Forensic Tools**  
+- 💬 Ask me about **Web Development, IoT & Arduino Programming, Python, Security Tools, and Forensic Tools**  
 - 💻 All of my projects are available here → [github.com/VishvPruthi](https://github.com/VishvPruthi)  
 - 📧 Reach me at: **vishvpruthi@gmail.com**  
 
@@ -18,7 +18,8 @@ I’m currently exploring various **network security tools** and looking for an 
 - **Network Security**  
 - **Digital Forensics & Evidence Analysis**  
 - **Linux & Ethical Hacking Tools**  
-- **Python**
+- **Python**  
+- **Arduino with C**
 
 ---
 
@@ -36,7 +37,7 @@ I’m currently exploring various **network security tools** and looking for an 
 ---
 
 ## 🌐 Connect with Me  
-<a href="https://www.linkedin.com/in/vishvpruthi/" target="_blank">
+<a href="https://www.linkedin.com/in/vishv-pruthi-22a62a359/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
 </a>  
 
